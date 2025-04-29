@@ -1,0 +1,219 @@
+{
+  "title":"Vamos testar o seu conhecimento de teoria musical?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Complete: A _____________ é a produção ordenada de sons sucessivos. Exemplo:________.",
+      "options":[
+        {"id": 1, "name":"Melodia; trompete;", "alias":"A"},
+        {"id": 2, "name":"Ritmo; piano;", "alias":"B"},
+        {"id": 3, "name":"Harmonia; trompete;", "alias":"B"},
+        {"id": 4, "name":"Harmonia, flauta.", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Assinale a alternativa correta. ",
+      "options":[
+        {"id": 1, "name":"“A buzina do trem produz um som longo”. Logo, nos referimos à Intensidade.", "alias":"B"},
+        {"id": 2, "name":"A Duração é a sustentação do som, podendo ser curto ou longo.", "alias":"A"},
+        {"id": 3, "name":"Altura é a propriedade do som ser forte ou fraco.", "alias":"B"},
+        {"id": 4, "name":"Timbre é a propriedade que permite reconhecer se o som é grave, médio ou agudo.", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual definição abaixo se refere à “pulsação”? ",
+      "options":[
+        {"id": 1, "name":"Distribuição dos sons num espaço de tempo.", "alias":"B"},
+        {"id": 2, "name":"Indica o final da peça musical.", "alias":"B"},
+        {"id": 3, "name":"Divisão de um trecho musical em séries regulares de tempos.", "alias":"B"},
+        {"id": 4, "name":"Pulso regular que contém batidas constantes, com a mesma duração.", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que é compasso? ",
+      "options":[
+        {"id": 1, "name":"É o início ou o fim de um compasso com linhas verticais.", "alias":"B"},
+        {"id": 2, "name":"É a quantidade de tempos dentro do compasso e a figura de 1 tempo.", "alias":"B"},
+        {"id": 3, "name":"É a divisão de um trecho musical em séries regulares de tempos.", "alias":"A"},
+        {"id": 4, "name":"É a distribuição de sons num espaço de tempo.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "O conceito “é a forma de visualizar as 3 claves utilizando um sistema de 11 linhas” refere-se ",
+      "options":[
+        {"id": 1, "name":"À Pauta", "alias":"B"},
+        {"id": 2, "name":"Ao Pentagrama.", "alias":"B"},
+        {"id": 3, "name":"À Clave", "alias":"B"},
+        {"id": 4, "name":"Ao Endecagrama.", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Complete a frase: A _______________ define a quantidade de tempos dentro de um compasso, bem como a figura musical que representa cada tempo, _________ ou __________. ",
+      "options":[
+        {"id": 1, "name":"Fórmula de compasso; pulso; movimento.", "alias":"A"},
+        {"id": 2, "name":"Figura musical; fórmula de compasso; pulso.", "alias":"B"},
+        {"id": 3, "name":"Fórmula de compasso; movimento; figura musical.", "alias":"B"},
+        {"id": 4, "name":"Figura musical; pulso; movimento.", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual alternativa abaixo se refere ao conceito de ligadura? ",
+      "options":[
+        {"id": 1, "name":"Linha curva que se coloca acima de uma nota e prolonga o silêncio.", "alias":"B"},
+        {"id": 2, "name":"Liga notas da mesma duração.", "alias":"B"},
+        {"id": 3, "name":"Linha curva que se coloca acima/abaixo de duas ou mais notas, estendendo o som.", "alias":"A"},
+        {"id": 4, "name":"Indica que o som ou silêncio deve ser sustentado por tempo indeterminado.", "alias":"B"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Os saltos de 5a, 8a e 10a se referem aos intervalos, respectivamente: ",
+      "options":[
+        {"id": 1, "name":"Compostos, simples e simples.", "alias":"B"},
+        {"id": 2, "name":"Todos estes saltos são simples.", "alias":"B"},
+        {"id": 3, "name":"Simples, composto e composto.", "alias":"B"},
+        {"id": 4, "name":"Simples, simples e composto.", "alias":"A"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "O que são tercinas? ",
+      "options":[
+        {"id": 1, "name":"São grupos de 2 figuras colocadas no lugar em que normalmente cabem apenas 3 figuras do mesmo valor.", "alias":"B"},
+        {"id": 2, "name":"São grupos de 3 figuras colocadas no lugar em que normalmente cabem apenas 2 figuras do mesmo valor.", "alias":"A"},
+        {"id": 3, "name":"São grupos de 4 figuras colocadas no lugar em que normalmente cabem apenas 3 figuras do mesmo valor.", "alias":"B"},
+        {"id": 4, "name":"São indicadas pelo número acima ou abaixo do grupo de figuras.", "alias":"B"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "O que significa fórmula de compasso 6/8?",
+      "options":[
+        {"id": 1, "name":"Determina que o compasso terá 6 pulsos e a colcheia representa cada pulso ou movimento.", "alias":"A"},
+        {"id": 2, "name":"Determina que o compasso terá 3 tempos e a colcheia representa cada pulso ou movimento.", "alias":"B"},
+        {"id": 3, "name":"Determina que o compasso terá 2 pulsos e a mínima representa cada pulso ou movimento.", "alias":"B"},
+        {"id": 4, "name":"Determina que o compasso terá 3 pulsos e a semínima representa cada pulso ou movimento.", "alias":"B"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "O que são acidentes musicais?",
+      "options":[
+        {"id": 1, "name":"Elevam a altura da nota em um semitom.", "alias":"B"},
+        {"id": 2, "name":"Quando duas notas soam simultaneamente e na mesma altura.", "alias":"B"},
+        {"id": 3, "name":"Sinais à esquerda da nota natural que modificam sua altura.", "alias":"A"},
+        {"id": 4, "name":"Sucessão de 8 notas diferentes e consecutivas.", "alias":"B"}
+      ]
+    },
+    {
+      "id":12,
+      "question": "Considerando os intervalos de semitons: dó e dó#; si e dó podemos classificá-los como: ",
+      "options":[
+        {"id": 1, "name":"Diatônico e Cromático.", "alias":"B"},
+        {"id": 2, "name":"Cromático e Diatônico.", "alias":"A"},
+        {"id": 3, "name":"Cromático e Cromático.", "alias":"B"},
+        {"id": 4, "name":"Diatônico e Diatônico", "alias":"B"}
+      ]
+    },
+    {
+      "id":13,
+      "question": "Complete: A ________ é o nome que se dá ao conjunto de _______ fixados entre a _______ e a ___________.",
+      "options":[
+        {"id": 1, "name":"Fórmula de compasso, acidentes; armadura de clave e clave.", "alias":"B"},
+        {"id": 2, "name":"Armadura de clave, bemóis, fórmula de compasso.", "alias":"B"},
+        {"id": 3, "name":"Fórmula de compasso; sustenido; armadura de clave.", "alias":"B"},
+        {"id": 4, "name":"Armadura de clave, acidentes, clave e fórmula de compasso.", "alias":"A"}
+      ]
+    },
+    {
+      "id":14,
+      "question": "Quais são os acidentes e a tonalidade maior de uma escala que possui 4#?",
+      "options":[
+        {"id": 1, "name":"Fá#, dó#, sol#, ré#. Mi M", "alias":"A"},
+        {"id": 2, "name":"Fá#, dó#, ré#, sol#. Lá M.", "alias":"B"},
+        {"id": 3, "name":"Si#, mi#, lá#, ré#. Ré # M.", "alias":"B"},
+        {"id": 4, "name":"Si#, mi#, ré#, lá#. Si # M.", "alias":"B"}
+      ]
+    },
+    {
+      "id":15,
+      "question": "Qual é a diferença entre escala e tonalidade? ",
+      "options":[
+        {"id": 1, "name":"Escala = notas alternadas e tonalidade = notas sucessivas.", "alias":"B"},
+        {"id": 2, "name":"Escala = notas consecutivas e tonalidade = notas simultâneas.", "alias":"B"},
+        {"id": 3, "name":"Escala = notas sucessivas e tonalidade = notas consecutivas.", "alias":"B"},
+        {"id": 4, "name":"Escala = notas consecutivas e tonalidade = notas alternadas.", "alias":"A"}
+      ]
+    },
+    {
+      "id":16,
+      "question": "Qual o nome dos acidentes presentes na armadura de clave? ",
+      "options":[
+        {"id": 1, "name":"Nenhuma das alternativas", "alias":"B"},
+        {"id": 2, "name":"Acidentes Ocorrentes", "alias":"B"},
+        {"id": 3, "name":"Acidentes Fixos", "alias":"A"},
+        {"id": 4, "name":"Acidentes de Precaução", "alias":"B"}
+      ]
+    },
+    {
+      "id":17,
+      "question": "Qual o conceito correto de “Barras de Repetição”? ",
+      "options":[
+        {"id": 1, "name":"Duas linhas verticais paralelas, seguidas de ponto triplo.", "alias":"B"},
+        {"id": 2, "name":"Duas linhas verticais não paralelas, sendo uma delas mais grossa.", "alias":"B"},
+        {"id": 3, "name":"Duas linhas verticais não paralelas, seguidas de um ponto.", "alias":"B"},
+        {"id": 4, "name":"Duas linhas verticais paralelas, com 2 pontos ao centro da segunda.", "alias":"A"}
+      ]
+    },
+    {
+      "id":18,
+      "question": "As barras de repetição estão sempre em conjunto, pois ",
+      "options":[
+        {"id": 1, "name":"Os pares iniciais e finais não indicam onde você deve voltar no trecho musical.", "alias":"B"},
+        {"id": 2, "name":"Os pares iniciais e finais indicam onde você deve repetir o trecho musical.", "alias":"A"},
+        {"id": 3, "name":"Os pares iniciais e conclusivos indicam onde você deve voltar no trecho musical.", "alias":"B"},
+        {"id": 4, "name":"As barras não estão sempre em conjunto.", "alias":"B"}
+      ]
+    },
+    {
+      "id":19,
+      "question": "Complete: A _______ é a variação de intensidade do som de maneira gradual. ",
+      "options":[
+        {"id": 1, "name":"Dinâmica.", "alias":"A"},
+        {"id": 2, "name":"Síncopa.", "alias":"B"},
+        {"id": 3, "name":"Altura.", "alias":"B"},
+        {"id": 4, "name":"Subdivisão.", "alias":"B"}
+      ]
+    },
+    {
+      "id":20,
+      "question": "Quando o sinal de crescendo e decrescendo não tem uma dinâmica especificada deve-se ",
+      "options":[
+        {"id": 1, "name":"Aumentar ou diminuir a intensidade em um nível apenas.", "alias":"A"},
+        {"id": 2, "name":"Aumentar a intensidade em um nível apenas.", "alias":"B"},
+        {"id": 3, "name":"Diminuir a intensidade em um nível apenas.", "alias":"B"},
+        {"id": 4, "name":"Aumentar ou diminuir a intensidade em dois níveis.", "alias":"B"}
+      ]
+    },
+    {
+      "id":21,
+      "question": "Qual a sequência correta do acento métrico no compasso quaternário simples (4/4)? ",
+      "options":[
+        {"id": 1, "name":"Forte, meio forte, fraco, fraco.", "alias":"B"},
+        {"id": 2, "name":"Forte, fraco, meio forte, fraco.", "alias":"A"},
+        {"id": 3, "name":"Fraco, meio forte, forte, fraco.", "alias":"B"},
+        {"id": 4, "name":"Fraco, forte, meio forte, fraco.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Parabens voce se saiu bem!",
+    "B": "Precisa estudar mais!"
+  }
+}
