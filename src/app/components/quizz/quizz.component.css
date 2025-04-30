@@ -11,12 +11,13 @@ margin-top: 20px;
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
-
+  font-size: 2.5vw;
 }
 
 .quizz__logo > h3{
   margin-top: 20px;
   text-align: center;
+  /* font-size: 2.6vw; */
 }
 
 .quizz__questions{
@@ -27,14 +28,15 @@ margin-top: 20px;
   border-radius: 8px;
   background-color: #654ED2;
   width: 100%;
-  height: 130px;
-  font-size: 1.5vh;
+  height: 12vw;
+  font-size: 1.9vw;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-bottom: 20px;
 }
 
 .quizz__questions>h3{
   margin-left: 15px;
+
 }
 
 .quizz__options{
@@ -42,22 +44,23 @@ margin-top: 20px;
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .btn-option{
   background-color: transparent;
   border-radius: 8px;
   border: 1px solid #18ab29;
-  width: 50%;
+  width: 48%;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 2vw;
   padding: 16px 31px;
   text-decoration: none;
   text-shadow: 0px 1px 0px #2f6627;
+  margin: 3px 3px 3px 3px;
 }
 
 .btn-option:hover{
@@ -88,53 +91,53 @@ margin-top: 20px;
 
 @media (max-width:700px){
 
-  .btn-option{
+  /* .btn-option{
     font-size: 15px;
-  }
+  } */
 
   /* .quizz__questions>h3{
-    font-size: 1.4vh;
+    font-size: 1.1rem;
   } */
 
 
 }
 
 @media (max-width:520px){
-  .btn-option{
+  /* .btn-option{
     font-size: 12px;
 
+  } */
+
+  /* .quizz__logo > h1{
+    font-size: 1.7rem;
   }
 
-  .quizz__logo > h1{
-    font-size: 1.4rem;
-  }
-
-  .quizz__logo > h3{
-    font-size: 1.7vh;
+   .quizz__logo > h3{
+    font-size: 1.0rem;
   }
 
   .quizz__questions>h3{
-    font-size: 1.3vh;
-  }
+    font-size: 1.0rem;
+  } */
 }
 
 @media (max-width:400px){
-  .btn-option{
+  /* .btn-option{
     font-size: 10px;
 
-  }
+  } */
 
-  .quizz__logo > h1{
+  /* .quizz__logo > h1{
     font-size: 1.2rem;
-  }
+  } */
 
-  .quizz__logo > h3{
+  /* .quizz__logo > h3{
     font-size: 1.5vh;
-  }
+  } */
 
-  .quizz__questions>h3{
+  /* .quizz__questions>h3{
     font-size: 1.2vh;
-  }
+  } */
 
   .quizz__questions{
     height: 80px;
